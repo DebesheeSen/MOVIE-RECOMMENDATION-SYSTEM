@@ -31,7 +31,18 @@ A **Movie Recommendation Web Application** that recommends similar movies based 
 | ML Model  | Pickle, Cosine Similarity |
 | Data/API  | TMDB API           |
 | Deployment | Render (or similar) |
+---
 
+## 🚀 Getting Started
+
+1. Clone the Repository
+2. Install dependencies
+   ``` pip install requirements.txt ```
+4. Run API Server
+   ``` uvicorn recommendations:app --reload --port 8501 ```
+6. Test API Endpoint and update API_URL in frontend.py
+7. Run Streamlit App
+   ``` streamlit run frontend.py ```
 ---
 ## 🧾 Final Notes
 
