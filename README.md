@@ -5,12 +5,6 @@ A **Movie Recommendation Web Application** that recommends similar movies based 
 
 ---
 
-## 🔗 Live Demo
-
-[Click here to try the app](https://movie-recommendation-system-s329.onrender.com/)
-
----
-
 ## 📌 Features
 
 - Search from a list of movies  
