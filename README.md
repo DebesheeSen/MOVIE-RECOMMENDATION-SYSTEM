@@ -57,7 +57,7 @@ If you found it useful, feel free to ⭐ star the repository and contribute via 
 ---
 ## 📬 Feedback / Contact
 
-For issues, suggestions, or feature requests, feel free to open an issue or reach out directly via email.
+- For issues, suggestions, or feature requests, feel free to open an issue or reach out directly via email.
 ---
 
 _“The best way to predict the future is to invent it.” — Alan Kay_
