@@ -24,19 +24,21 @@ A **Movie Recommendation Web Application** that recommends similar movies based 
 | Backend   | FastAPI            |
 | ML Model  | Pickle, Cosine Similarity |
 | Data/API  | TMDB API           |
-| Deployment | Render |
+| Deployment | Docker |
 ---
 
 ## 🚀 Getting Started
 
 1. Clone the Repository
-2. Install dependencies : 
-   ``` pip install requirements.txt ```
-4. Run API Server : 
-   ``` uvicorn recommendations:app --reload --port 8501 ```
-6. Test API Endpoint and update API_URL in frontend.py
-7. Run Streamlit App : 
-   ``` streamlit run frontend.py ```
+2. Run with Docker : 
+   ``` docker compose up```
+4. Access the App : 
+   -Frontend : ``` http://localhost:8501 ```
+   -API Docs : ``` [http://localhost:8501](http://localhost:8000/docs) ```
+6. Docker Hub Images:
+   -Frontend : ``` debesheesen/movie-recommendation-frontend ```
+   -Backend : ``` debesheesen/movie-recommendation-backend ```
+
 ---
 ## 🧾 Final Notes
 
