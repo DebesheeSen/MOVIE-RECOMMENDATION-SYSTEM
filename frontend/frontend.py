@@ -1,5 +1,5 @@
 import streamlit as st
-from frontend.list import movie_list
+from list import movie_list
 import requests
 
 API_URL = "http://backend:8000/predict"
