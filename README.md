@@ -33,11 +33,11 @@ A **Movie Recommendation Web Application** that recommends similar movies based 
 2. Run with Docker : 
    ``` docker compose up```
 4. Access the App : 
-   -Frontend : ``` http://localhost:8501 ```
-   -API Docs : ``` [http://localhost:8501](http://localhost:8000/docs) ```
+- Frontend : ``` http://localhost:8501 ```
+- API Docs : ``` [http://localhost:8501](http://localhost:8000/docs) ```
 6. Docker Hub Images:
-   -Frontend : ``` debesheesen/movie-recommendation-frontend ```
-   -Backend : ``` debesheesen/movie-recommendation-backend ```
+- Frontend : ``` debesheesen/movie-recommendation-frontend ```
+- Backend : ``` debesheesen/movie-recommendation-backend ```
 
 ---
 ## 🧾 Final Notes
